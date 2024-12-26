@@ -290,10 +290,7 @@ button:focus {
   background: rgb(255, 255, 255);
   padding: 0px 25px;
 }
-
-.navbar .logo_h {
-  padding-top: 0px;
-}
+ 
 
 .navbar .menu_nav .nav-item .nav-link {
   font: 500 12px/80px "Poppins", sans-serif;
@@ -467,24 +464,7 @@ border:none;
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 /*============= Start banner_area css =============*/
-.banner1_area {
-  background: rgba(6, 1, 48, 0.774);
-   
  
-}
- 
- 
- 
-.banner {position: relative;color: #fff;}
-.banner p{font:300 1.35em/4em 'Old Standard TT', serif;margin:0; }
-.banner img.img-responsive{width: 100%;  opacity: 0.50;}
-.banner .welcome-message{position: absolute;left: 0;right:0;bottom:0;top:0;text-align: center;}
-.banner .welcome-message .wrap-info{display: table;height: 100%;width: 100%;text-align: center;color: rgb(9, 27, 129);}
-.banner .welcome-message .wrap-info .information{display: table-cell;vertical-align: middle;}
-.banner .arrow-nav{position: absolute;bottom:-3.5em;background-color: rgb(9, 27, 129);height: 7em;width: 7em;display: inline-block;z-index: 100;left: 50%;margin-left: -52px;color: #fff;border-radius: 50%;}
-.banner .arrow-nav i{font-size: 5em;line-height:105px;}
-.banner .arrow-nav:hover{background: rgb(9, 27, 129);}
-
  
 
 /*============= End banner_area css =============*/
@@ -2258,7 +2238,7 @@ div#slider figure {
  
  
           footer{
-            background: #071d5c;
+            background: rgba(2, 14, 78, 0.801);
            width: 100%;
            bottom: 0;
            left: 0;
